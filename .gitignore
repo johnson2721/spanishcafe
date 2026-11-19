@@ -15,3 +15,6 @@ next-env.d.ts
 # misc
 .DS_Store
 npm-debug.log*
+
+# local hand-off artifacts
+*.zip
